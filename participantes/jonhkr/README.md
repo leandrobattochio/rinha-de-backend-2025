@@ -1,1 +1,0 @@
-Codigo fonte: https://github.com/jonhkr/rinha-backend-2025

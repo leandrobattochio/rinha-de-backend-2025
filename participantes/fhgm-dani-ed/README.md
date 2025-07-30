@@ -1,4 +1,0 @@
-## Tecnologias Utilizadas
-
-- **.NET**
-- **PostgreSQL**
